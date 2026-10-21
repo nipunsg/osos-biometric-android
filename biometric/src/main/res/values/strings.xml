@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="osos_biometric_title_enable">Enable biometric login?</string>
+    <string name="osos_biometric_title_scan">Sign in</string>
+    <string name="osos_biometric_msg_scan">Confirm your FaceID/Fingerprint to continue</string>
+    <string name="osos_biometric_action_cancel">Cancel</string>
+</resources>

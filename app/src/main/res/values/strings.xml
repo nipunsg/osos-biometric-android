@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BiometricR&amp;D</string>
+
+    <string name="msg_empty_fields">Email and password are required</string>
+    <string name="title_login_failed">Login Failed</string>
+    <string name="action_yes">Yes</string>
+    <string name="action_no">No</string>
+    <string name="title_failed">Failed</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_make_payment">Make payment</string>
+    <string name="title_payment">Confirm payment</string>
+    <string name="msg_payment_success">Success</string>
+    <string name="title_biometric_error">BioMetric Error</string>
+    <string name="msg_biometric_error">Something went wrong in biometric</string>
+    <string name="title_logout">Logout</string>
+    <string name="msg_logout_confirm">Are you sure you want to logout?</string>
+    <string name="title_enable_biometric">Enable biometric login?</string>
+    <string name="msg_enable_biometric">Use FaceId/Fingerprint to sign in next time.</string>
+    <string name="title_scan">Sign in</string>
+    <string name="msg_scan">Confirm your FaceID/Fingerprint to continue</string>
+    <string name="title_enable_scan">Enable biometric login</string>
+    <string name="title_biometric_failed">Biometric failed</string>
+    <string name="msg_biometric_failed">Biometric authentication failed</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_scan">Scan</string>
+    <string name="msg_hi_email">Hi %1$s</string>
+</resources>

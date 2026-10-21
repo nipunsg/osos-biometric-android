@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="osos_biometric_title_enable">تفعيل تسجيل الدخول بالبصمة؟</string>
+    <string name="osos_biometric_title_scan">تسجيل الدخول</string>
+    <string name="osos_biometric_msg_scan">أكّد بصمة الوجه أو الإصبع للمتابعة</string>
+    <string name="osos_biometric_action_cancel">إلغاء</string>
+</resources>
