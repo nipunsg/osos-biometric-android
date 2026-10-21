@@ -35,9 +35,9 @@ dependencies {
 publishing {
     publications {
         register<MavenPublication>("release") {
-            groupId = "com.github.pbsgears"
+            groupId = "com.github.nipunsg"
             artifactId = "osos-biometric-android"
-            version = "1.0.0"
+            version = System.getenv("VERSION") ?: "1.0.0"
             afterEvaluate { from(components["release"]) }
         }
     }
